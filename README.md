@@ -115,11 +115,9 @@ Negative space are empty areas that form functional blocks or clusters on a kayb
 
 Those blocks function by the very empty space that makes them appear insular.
 
-There are keybopards that capitalize on exactly saving up on that space (the 96% size).
+There are keyboards that capitalize on exactly saving up on that space (the 96% size). They happen have a reputatiuon of being clumsy to quickly navigate from block to block.
 
-They have a reputatiuon of being clumsy to quickly navigate from block to block.
-
-Even the highly praised "1800" design can overwhelm the causal user with it's lumped tugether numpad and navblock, but the space surrounding the arrow keys more than makes up for that.
+Even the highly praised "1800" design can overwhelm the causal user with it's lumped tugether numpad and navblock, but the space surrounding the arrow keys more than makes up for that. And it's narrower than the full size ANSI while still keeping all standard keys.
 
 Good designers cleverly use negative space to their best advantage. Space of 0.25U is usually regarded as unfit to be covered by the case "blocker" and is either left with the plate showing or a plate mounted blocker is used instead. Such blockers can mount status ledsm badges or other non functional or non input features.
 
