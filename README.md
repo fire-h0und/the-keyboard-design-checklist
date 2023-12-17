@@ -136,7 +136,13 @@ For the time there were even mechanical devices that would serve to validate the
 
 Luckily these days are in the past and all readlily available switches come in dampened tectile or even linear (smooth travel) silenced variety.
 
-It is worth to note that bast the **topre** membrane and **IBM**'s buckling spring all other swithces "fake" the activation event with a secondary element or device acting as tactile event generator. The notable exception being the **Cherry** clickjacket tactile clicky MX switch, altho it's design goal was to actually prevent accidental double activation events.
+It is worth to note that past the **topre** membrane, **IBM**'s buckling spring and the **Cherry** clickjacket tactile clicky MX switch all other swithces "fake" the activation event with a secondary element or device acting as tactile event generator. Some solutions are so off one can make the switch close before the tactile event takes place, or opposite, make the tactile event happen before the switch closes. Worst case is to even have both happen on the same unit.
+
+Other notable feedback mecahnisms are the illuminating ones:
+* Status LEDs
+* OLED status screen
+* audible feedback (confirms every switch closing, or change of status or both)
+* solenoid (some have such a heavy one the feedback is clearly tacitle even)
 
 ### Non functional features
 Every once in a while there are those keyboards that seem to be aiming to amuse, shock or ridicule.
@@ -144,27 +150,28 @@ Every once in a while there are those keyboards that seem to be aiming to amuse,
 Whtever the ever eluding case might be, they catch the unasuming eye (and wallet) of the unsuspecting consumer with just that: non fucntional features:
 * Sound enhancing or changing features (slits, cutouts, inserts...)
 * Various cable setups (coiled cables with aviator pulgs mid cable) (just to be clar: i am perfectly aware a badly coiled cable will always tend sit somewhat uneven if there is no hefty (and otherwise totally unjustified) X16 aviator jack pair right at the end of the coil in the middle of the cable. Yes it's only purpose is to hold the cable down - it even looks uglym bulky and unasuming) 
-* the OLED with the bongocat - if you have time and attention sapn to follow the bongocat - you shouldn't spoend the time on the computer anyway - take a walk in th epark instaed)
-* A keyboard, in my view, is a input device - one you perate while your attention is directed eksewhere - i am very weary of *output* features on a keyboard, aside from status leds, and even then with a good sense of neasure!
-* Idolatry on the bottom side - is just that - fancy weights made with preicey methods and out of pricey materials are just vasetullf use of resources. I doubt anyone will type more productive over a brass weight versus over a soft steel one. Especially if both are painted in gold color and never shown to anyone.
+* the OLED with the bongocat - if you have time and attention sapn to follow the bongocat - you shouldn't spoend the time on the computer anyway - take a walk in the park instaed)
+* A keyboard, in my view, is an input device - one you operate while your attention is directed elsewhere - i am very weary of *output* features on a keyboard, aside from status leds, and even then with a good sense of neasure!
+* Idolatry on the bottom side - is just that - fancy weights made with pricey methods and out of pricey materials are just vasteful use of resources. I doubt anyone will type more productive over a brass weight versus over a soft steel one. Especially if both are painted in gold color and never shown to anyone.
 * Secondary fonts in languages that no one uses or can read. *Especially runes*
 
 ### Redundant functions
 *TODO*
 
 ## Configuration
-Some keyboards come as a single unit. other come as split halves - not even connected by a cable but powered each by ot's own battery. Other Come as a modular kit where the parts can even switch places so You can go from right hand side nupad to a true southpaw plugging it in on the left side!
+Some keyboards come as a single unit. other come as split halves - some not even connected by a cable but powered each by ot's own battery. Other Come as a modular kit where the parts can even switch places so You can go from right hand side nupad to a true southpaw rfe-plugging it in on the left side!
 
 ### Units
-The splitting of a keyboard is justified only if done right - it is of little use to split it and then only find out you keep seeking for the **B** key on the wrong side. Or find out you always use the right half of the split space, despite it being changed to backspace due to too smal number of keys chosen.
+The splitting of a keyboard is justified only if done right - it is of little use to split it and then only find out you keep seeking for the **B** key on the wrong side. Or find out you always use the right half of the split space, despite it being changed to backspace due to too small number of keys per halve designed in.
 
-Those are the problems that shoot down an otherwise novel idea. Carelessly approaching Design iterations (yes! most good designs take few times to produce before done just right) leads to unforeseen expenses and premature burnout.
+Those are the problems that shoot down an otherwise novel idea. Carelessly approaching design iterations (yes! most good designs take few times to produce before done just right) leads to unforeseen expenses and premature burnout.
 
 Picking the right quality of connector is important. the right type of connector even more so.
 
-If not sure, stick to 14 pole **USB Type C with USB2.0 standard**. For everything.
+If not sure, stick to 14 pole **USB Type-C with USB2.0 standard**. For everything.
 
 ### Communication standards
+*TODO*
 USB, Converters, Bluetooth, Custom wireless. Cable and connector picking.
 
 *TODO*
