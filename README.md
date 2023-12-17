@@ -56,7 +56,7 @@ Alas! It has issues with:
 * misses a key or a feature
 * misses more keys or features
 * clicky switches (bitching innit?)
-* the canle plug wastes too much desk space
+* the cable plug wastes too much desk space
 * looks too unproffesional and embarasing to be actually used in the actual work environment.
 * It is in the end just a toy and nothing more.
 
