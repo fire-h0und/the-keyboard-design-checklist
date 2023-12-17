@@ -12,7 +12,7 @@ Not all keyboards are created equal. And some intentionally so. Let's see what c
 * Latest an greatest QMK/ZMK fork for firmware - check
 * Web GUI for keyboard layout and dedicated OS/platform customisation app - check
 * Underglow in RGB - check
-* per keyu RGB - check
+* per key RGB - check
 * Latest GMK keycaps from Drop - check
 * Pudding (side translucent ekycaps) - check
 * *Feelios* (sarcastically generalized factory lubricated MX style switch reference) - check
