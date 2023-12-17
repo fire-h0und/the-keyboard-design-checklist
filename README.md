@@ -74,21 +74,23 @@ The best keyboards, most agree were from the era they were comissioned from the 
 
 ### The compulsory purchase(s)
 Hello my name is \<Name and Surname here\>, I am a keyboardholic. This is my collection \<Instagram or Imgur URL\>
-* Some keyboards just happen to look too good on a stnad or in a shelf.
-* You have to put all those fantastic keycaps on something
-* It is a rare model and Wouldn't we all hate someone took it apart and salvaged it for the rare switches?
+
+* Some keyboards just happen to look too good on a stand or in a shelf.
+* You have to put all those fantastic keycaps on something, right?
+* It is a rare model and wouldn't we all hate someone took it apart and salvaged it for the rare switches?
 * I just happen to had that amount of meny at my side
+* Yes it is a bad keyboard but my keycaps really stand out on it, and I never intended to use it for typing anyway....
 * This is the last one i promise.
 
 ## Elements
-The keyboard desing elements don't end with:
+The keyboard design elements don't end with:
 * Case
 * Plate
 * Switches
 * Circuitry (be it on a board or wires hung mid air - aka handwired)
 * Connection cable (or medium if wireless)
 
-People usualy forget mot keyboards have collapsible feet. Some even can be tented. But there is way more to keyboard elements than just that...
+People usualy forget most keyboards have collapsible feet. Some keyboards even can be tented. But there is way more to keyboard elements than just that...
 
 ### Safe keys
 When you want to "wake" the computer or interrupt it's idel state but not interrupt it's current task of focus point you seek wha'ts called a "safe key".
@@ -101,10 +103,10 @@ Now that we have established what safe keys are, can we agree the a wise designe
 
 The standard ANSI/ISO has it's left most bottom row key be **Ctrl** a key safe to press any time in most sessions and programs that will be running on any PC.
 
-Having no suck keys readily accesible along the contour of the keyboard is certainly a sing onf bad desing or insufficient desing consideartion.
+Having no such keys readily accesible along the contour of the keyboard is certainly a sign onf bad design or insufficient design consideartion.
 
 ### Negative space
-Negative space are empty areas that form blocks or clusters on a kayboard:
+Negative space are empty areas that form functional blocks or clusters on a kayboard:
 * Macro block (left most on legacy XT style layouts)
 * The Function row (top most row where the **Escape** key resides)
 * The Alphanumneric block (basically what's a 60% keyboard)
