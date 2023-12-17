@@ -64,10 +64,10 @@ Alas! It has issues with:
 When buying and actual daily drive a *cary along keyboard* make sure that:
 * it's actually silenced/dampened - it takes more than foam modding to comply with that.
 * rugged desing means actual metal plate, a case that can handle falling from the desk to the floor and can handle repairs should the worst happen.
-* it has QMK firmware with options to meet OS reuirements in the environment it will be used in - *as the only keyboard or input device*.
+* it has QMK firmware with options to meet OS requirements in the environment it actually will be used in - *even as the only keyboard or input device*.
 * it's "features" like light effects and sounds (or knocks) can be readily turned off when the situation demands it.
 * the size and layout is comfortable and productive for prolonged use
-* it is safe to be actually used an doperated in the actual work environment. Some labs have issues with some sorts of metals if the cases is conductive or non coated.
+* it is safe to be actually used and operated in the actual work environment. Some labs have issues with some sorts of metals if the case is conductive or non coated metal.
   
 ### The self defense weight
 The best keyboards, most agree were from the era they were comissioned from the government and acquired for the miltary. The lucky few who happen to own those dread at the very ieda of transporting those overweight megaliths. But operating them is still a delight and something of a conversation starter on many enthusiast meetups...
