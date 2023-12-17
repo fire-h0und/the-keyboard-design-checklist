@@ -49,7 +49,7 @@ It fits the backpack just perefect!
 
 It doesn't use up much space at all!
 
-Alas! It has issues wit:
+Alas! It has issues with:
 * that particular OS driver
 * is against the company policy (to be used on the work place)
 * it's too feeble
