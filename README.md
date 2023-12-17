@@ -1,4 +1,6 @@
 # the-keyboard-design-checklist
+Note all the oppinions expressed here are that of the author. They might more or less differ from Yours or others. If You happen not to like some, try to agree we disagree and feel free to fork this and write up your own. 
+
 There always were beloved and hated keybords. Some are even materialized practical jokes and even pranks.
 
 Let's delve into predicting (as in creating) what comprises an excellent keyboard.
@@ -122,9 +124,9 @@ Even the highly praised "1800" design can overwhelm the causal user with it's lu
 Good designers cleverly use negative space to their best advantage. Space of 0.25U is usually regarded as unfit to be covered by the case "blocker" and is either left with the plate showing or a plate mounted blocker is used instead. Such blockers can mount status leds, badges or other non functional or non input features. There were commerically available keyboards that do cover 0.25U spaces with case level blockers or fill ins - namely the **Cherry 1800** series among others.
 
 ### Tactile and other feedback mechanisms
-Tactility is good. Mankind has used the tactility of it's fingers from the dawn of time to it's best advantage. One of the greatest shortcomings of the otherwise superior touch screens is exactly that - lack of tactile feedback.
+Tactility is good. Mankind has used the tactility of it's fingers from the dawn of time. One of the greatest shortcomings of the otherwise superior touch screens is exactly that - lack of tactile feedback.
 
-A good desing uses the tactile feedback to ti's best adavtage.
+A good design uses the tactile feedback to is's best adavtage.
 
 The original complicated (SCKM) **Alps** switches have the highest tactile reputation among all currently available options. The **Matias** and OPC (from **Tai Hao**) come close in second then the whole variety of more or less expensive and/or viable MX clones and lookalikes (**Kailh** BOX coes to mind).
 
