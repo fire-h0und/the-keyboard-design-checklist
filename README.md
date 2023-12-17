@@ -10,7 +10,7 @@ Not all keyboards are created equal. And some intentionally so. Let's see what c
 * OLED - check
 * Standard row stagger - check
 * Latest an greatest QMK/ZMK fork for firmware - check
-* Web GUI for keyboard layout and dediucated OS/platform customisation app - check
+* Web GUI for keyboard layout and dedicated OS/platform customisation app - check
 * Underglow in RGB - check
 * per keyu RGB - check
 * Latest GMK keycaps from Drop - check
