@@ -120,7 +120,7 @@ I am  yet to see a **keyboard weight** to play any role aside from hampering tra
 
 Good cases have **soft feet** that don't ever slip on any surface, and don't scratch or burr any desk if dragged across.
 
-Properly desinged case **relieves the cable and plug** from excessive stress and damnage in all possible and even unforseen use scenarios. A merely recessed USB plug is just that - both inadequate and a failure waiting to happen.
+Properly desinged case **relieves the cable and plug** from excessive stress and damage in all possible and even some unforseen use scenarios. A merely recessed USB plug is just that - both inadequate and a failure waiting to happen.
 
 A **slot** for securing a keyboard with a lock and a steel rope/chain is a clear sign of a forward looking and mature designer.
 
