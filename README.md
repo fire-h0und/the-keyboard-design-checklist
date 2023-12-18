@@ -232,7 +232,8 @@ The standard ANSI/ISO has it's left most bottom row key be **Ctrl** a key safe t
 Having no such keys readily accesible along the contour of the keyboard is certainly a sign onf bad design or insufficient design consideartion.
 
 ### Negative space
-Negative space are empty areas that form functional blocks or clusters on a kayboard:
+Negative space are empty areas that form functional blocks or clusters on a keyboard:
+
 * Macro block (left most on legacy XT style layouts)
 * The Function row (top most row where the **Escape** key resides)
 * The Alphanumneric block (basically what's a 60% keyboard)
