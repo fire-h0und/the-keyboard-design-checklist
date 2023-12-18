@@ -80,7 +80,7 @@ Hello my name is \<Name and Surname here\>, I am a keyboardholic. This is my col
 * Some keyboards just happen to look too good on a stand or in a shelf.
 * You have to put all those fantastic keycaps on something, right?
 * It is a rare model and wouldn't we all hate someone took it apart and salvaged it for the rare switches?
-* I just happen to had that amount of meny at my side
+* I just happen to had that amount of money at my side
 * Yes it is a bad keyboard but my keycaps really stand out on it, and I never intended to use it for typing anyway....
 * This is the last one i promise.
 
