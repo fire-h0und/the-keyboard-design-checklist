@@ -180,6 +180,10 @@ To pick the right switch it is a matter of preference, tehnical profficience and
 
 I happen to like Kailh silent BOX while I am not endorsed or have had any offer or gift from them or any other company. I just genuinely happen to like them. Do note i don't like just every other Kailh's switch.
 
+Aside from traditional switches there are a special variety called **rotary encoders**, it is a special sort of switch where it can be inferred at what direction amount and pace it is turning. The most popular have an adtional "push button" switch integrated on top. Their advantages are novely, satisfying tactile feedback (if of any quality) and intuitive UI traversal (turn & click). The disadvantages are fragility (if implemented improperly) and much lesser service time compared to a good key switch.
+
+One can find other types of input and ineraction devices among the switches on a keyboard like a track-point, trackball or a trackpad.
+
 ### Circutry
 
 The keyboard's mechanical side is jut one half of the medal. The circuity and firmware is what gives it the final character.
