@@ -243,7 +243,7 @@ Those blocks function by the very empty space that makes them appear insular.
 
 There are keyboards that capitalize on exactly saving up on that space (the 96% size). They happen have a reputatiuon of being clumsy to quickly navigate from block to block.
 
-Even the highly praised "1800" design can overwhelm the causal user with it's lumped tugether numpad and navblock, but the space surrounding the arrow keys more than makes up for that. And it's narrower than the full size ANSI while still keeping all standard keys.
+Even the highly praised "1800" design can overwhelm the causal user with it's lumped together numpad and navblock, but the space surrounding the arrow keys more than makes up for that. And it's narrower than the full size ANSI while still keeping all standard keys.
 
 Good designers cleverly use negative space to their best advantage. Space of 0.25U is usually regarded as unfit to be covered by the case "blocker" and is either left with the plate showing or a plate mounted blocker is used instead. Such blockers can mount status leds, badges or other non functional or non input features. There were commerically available keyboards that do cover 0.25U spaces with case level blockers or fill ins - namely the **Cherry 1800** series among others.
 
