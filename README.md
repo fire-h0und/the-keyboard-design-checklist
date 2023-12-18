@@ -147,7 +147,7 @@ Do note there is no set of general measurs to define the ideal keyboard, everyon
 
 Valid plate materials are many and as can be seen, the pick is not mandated solely by the rigidity of the material.
 
-Te roles a plate plays in a design are quite few:
+The roles a plate plays in a design are quite few:
 * Align and distribute 2/3 pin switches easily and evenly
 * Change flexing/rigidity of the whole board or one or more areas
 * Carry and stabilize the switches (some designs can even lack the entire PCB beneath)
