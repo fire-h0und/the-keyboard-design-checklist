@@ -162,12 +162,12 @@ Typical plate materials are:
 * Painted mild steel sheet
 * Aluminum (stamped or cut sheet or CNC'd blocks integral with the top housing)
 * Stainless (typically 304, rarely 316 (marine proof keyboards?)
-* Polycarbonate plastic cheet (very durable and flexible)
+* Polycarbonate plastic sheet (very durable and flexible)
 * Plywood or wood (birch, maple come to mind)
 * ABS plastic (3d prints in an enclosure like a charm)
-* PETg and or PLA - not suited for somer time usage in cars or hot ambients (stable up to 50 degrees Celsius at most)
+* PETg and or PLA - not suited for summer-time usage in cars or hot ambients (stable up to 50 degrees Celsius at most)
 * Brass or Copper (those steampunk enthusiasts really seem to have money to burn, right?)
-* Bronze or titanium (some people just seem to yearn to know the machining was arduous and painstaking or just can't be happy?)
+* Bronze or Titanium (some people just seem to yearn to know the machining was arduous and painstaking and otherwise just can't be happy?)
 
 ### Switches
 Mechanical keyboards are a niche of the whole keyboard market, a niche that seems to be expanding (or at least was up unil very recently).
