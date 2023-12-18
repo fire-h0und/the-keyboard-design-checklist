@@ -141,7 +141,7 @@ Do note there is no set of general measurs to define the ideal keyboard, everyon
 
 1. There is nothing wrong with an absolutely sturdy keyboard
 2. There is nothing wrong with an squishy flexible keyboard
-3. the right amount of flex & rigidity is merely a matter of personal preference
+3. The right amount of flex & rigidity is merely a matter of personal preference
 4. Do note that absolutely rigid keyboards never develop squeeking noises ever.
 5. there are plates that don't span the whole surface of the key area
 
