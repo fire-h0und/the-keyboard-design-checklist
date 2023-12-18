@@ -274,26 +274,29 @@ Every once in a while there are those keyboards that seem to be aiming to amuse,
 
 Whtever the ever eluding case might be, they catch the unasuming eye (and wallet) of the unsuspecting consumer with just that: non fucntional features:
 * Sound enhancing or changing features (slits, cutouts, inserts...)
-* Various cable setups (coiled cables with aviator pulgs mid cable) (just to be clar: i am perfectly aware a badly coiled cable will always tend sit somewhat uneven if there is no hefty (and otherwise totally unjustified) X16 aviator jack pair right at the end of the coil in the middle of the cable. Yes it's only purpose is to hold the cable down - it even looks uglym bulky and unasuming) 
-* the OLED with the bongocat - if you have time and attention sapn to follow the bongocat - you shouldn't spoend the time on the computer anyway - take a walk in the park instaed)
+* Various cable setups (coiled cables with aviator pulgs mid cable) (just to be clar: i am perfectly aware a badly coiled cable will always tend to sit somewhat uneven if there is no hefty (and otherwise totally unjustified) X16 aviator jack pair right at the end of the coil in the middle of the cable. Yes it's only purpose is to hold the cable down - it even looks ugly, bulky and unasuming) 
+* The OLED with the bongocat - if you have time and attention span to follow the bongocat - you shouldn't spend the time on the computer anyway - take a walk in the park instaed or reduce coffee intake)
 * A keyboard, in my view, is an input device - one you operate while your attention is directed elsewhere - i am very weary of *output* features on a keyboard, aside from status leds, and even then with a good sense of neasure!
-* Idolatry on the bottom side - is just that - fancy weights made with pricey methods and out of pricey materials are just vasteful use of resources. I doubt anyone will type more productive over a brass weight versus over a soft steel one. Especially if both are painted in gold color and never shown to anyone.
+* Idolatry on the bottom side - is just that - fancy weights made with pricey methods and out of pricey materials are just vasteful use of resources. I plan to start reporting bottom weights to Gertta Tunnenberg.
 * Secondary fonts in languages that no one uses or can read. *Especially runes*
+* Gimmicky design language features on the case (fake covers, sliders and air ports, "ammo feeders", rugged corners that aren't (as proven over and over again they break off first while protecting nothing), "rambo knife sawtooth" edges...) 
+* "Carying handle" for non portable kinds of keyboards
+* Fake loudspeaker grills
 
 ### Redundant functions
 *TODO*
 
 ## Configuration
-Some keyboards come as a single unit. other come as split halves - some not even connected by a cable but powered each by ot's own battery. Other Come as a modular kit where the parts can even switch places so You can go from right hand side nupad to a true southpaw rfe-plugging it in on the left side!
+Some keyboards come as a single unit. other come as split halves - some not even connected by a cable but powered each by it's own battery. Other Come as a modular kit where the parts can even switch places so You can go from right hand side numpad to a true south_paw re-plugging it in on the left side!
 
 ### Units
 The splitting of a keyboard is justified only if done right - it is of little use to split it and then only find out you keep seeking for the **B** key on the wrong side. Or find out you always use the right half of the split space, despite it being changed to backspace due to too small number of keys per halve designed in.
 
-Those are the problems that shoot down an otherwise novel idea. Carelessly approaching design iterations (yes! most good designs take few times to produce before done just right) leads to unforeseen expenses and premature burnout.
+Those are the problems that shoot down an novel idea. Carelessly approaching design iterations (yes! most good designs take few times to produce before done just right) leads to unforeseen expenses and premature burnout.
 
-Picking the right quality of connector is important. the right type of connector even more so.
+Picking the **right quality** of the connector is very important. The right **type of connector** even more so.
 
-If not sure, stick to 14 pole **USB Type-C with USB2.0 standard**. For everything.
+If not sure, stick to **14 pole USB Type-C with USB2.0 standard**. For everything.
 
 ### Communication standards
 *TODO*
