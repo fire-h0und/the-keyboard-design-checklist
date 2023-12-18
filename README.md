@@ -96,7 +96,7 @@ People usualy forget most keyboards have collapsible feet. Some keyboards even c
 
 ### Keyboard angles
 
-The usual keyboard lies on the desk at an angle from zero to two degrees, once the collapsible feet are folded out the angle can increases for some seven up to eleven degrees.
+The usual keyboard lies on the desk at an angle from zero to two degrees, once the collapsible feet are folded out the angle can increase for about seven or up to eleven degrees.
 
 Not all keyboard conform to these values.
 
