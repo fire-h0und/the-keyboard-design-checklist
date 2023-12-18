@@ -172,15 +172,13 @@ Typical plate materials are:
 ### Switches
 Mechanical keyboards are a niche of the whole keyboard market, a niche that seems to be expanding (or at least was up unil very recently).
 
-By that one understands a input device that holds more or less interchangeable modules called key switches that can either be soldered or plugged into dedicated sockets (the "hoitswap" keyboard variety).
+By that one understands an input device that holds more or less interchangeable modules called **key switches** that can either be soldered or plugged into dedicated sockets (the "hotswap" keyboard variety).
 
 As of very recently baseides mechanical metallic contacts, there have been magnetic, optical and non metallic contact switches offered on the market.
 
 To pick the right switch it is a matter of preference, tehnical profficience and more often that not a matter of residence due to many recent shipping constrains.
 
-Definitively a matter of personal preference and taste.
-
-I happen to like Kailh silent BOX and am not endorsed or have had any offer or gift fom then or any other company. I just genuinely happen to like them. Do note i don't like just every Kailh's switch.
+I happen to like Kailh silent BOX while I am not endorsed or have had any offer or gift from them or any other company. I just genuinely happen to like them. Do note i don't like just every other Kailh's switch.
 
 ### Circutry
 
