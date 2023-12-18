@@ -253,15 +253,15 @@ Tactility is good. Mankind has used the tactility of it's fingers from the dawn 
 
 A good design uses the tactile feedback to it's best adavtage.
 
-The original complicated (SCKM) **Alps** switches have the highest tactile reputation among all currently available options. The **Matias** and OPC (from **Tai Hao**) come close in second then the whole variety of more or less expensive and/or viable MX clones and lookalikes (**Kailh** BOX coes to mind).
+The original complicated (SCKM) **Alps** switches have the highest tactile reputation among all currently available options. The **Matias** and OPC (from **Tai Hao**) come close in second then the whole variety of more or less expensive and/or viable MX clones and lookalikes (**Kailh** BOX comes to mind).
 
 Sadly, the most tactile (and satisfying to the user) switches are the most annoying "loud" or "clicky" ones - just like operating a clicky ball pen - what's soothing and satisfying to the operator more often than not annoys and rustles the nearby surrounding bystanders.
 
-For the time there were even mechanical devices that would serve to validate the keybpres by a loud bump inside a volumiouns case.
+For the time there were even mechanical devices that would serve to validate the key press by a loud "bump" inside a volumiouns case.
 
-Luckily these days are in the past and all readlily available switches come in dampened tectile or even linear (smooth travel) silenced variety.
+Luckily these days are gone by and all readily available switches come in dampened tectile or even linear (smooth travel) silenced variety. Bedrom chat warriros rejoice!
 
-It is worth to note that past the **topre** membrane, **IBM**'s buckling spring and the **Cherry** clickjacket tactile clicky MX switch all other swithces "fake" the activation event with a secondary element or device acting as tactile event generator. Some solutions are so off one can make the switch close before the tactile event takes place, or opposite, make the tactile event happen before the switch closes. Worst case is to even have both happen on the same unit.
+It is worth to note that past the **topre** membrane, **IBM**'s buckling spring and the **Cherry** click-jacket tactile clicky MX switch all other swithce types "fake" the activation event with a secondary element or device acting as tactile event generator. Some solutions are so off one can make the switch close before the tactile event takes place, or oposite, make the tactile event happen before the switch closes. Worst case is to have both happen on the same unit.
 
 Other notable feedback mecahnisms are the illuminating ones:
 * Status LEDs
