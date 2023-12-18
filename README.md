@@ -114,7 +114,7 @@ Either option can lead to **RSSI** if used without planned breaks, sufficient *i
 
 Remember: too much optimization produces as much injury as inadequate work conditions can.
 
-Besides angles and sizes, the case characterizes also the weight. Some designers seem to lack confidence in designing a case as is so they add all osrts of weights to the bottom as a sorto f design language.
+Besides angles and sizes, the case characterizes also the weight. Some designers seem to lack confidence in designing a case as_is so they add all sorts of weights to the bottom as a sort of *design language*.
 
 I am  yet to see a **keyboard weight** to play any role aside from hampering transport and mitigating what **decent feet** ought to entirely alleviate (unitended motion of the unit while in normal operation). Aside asserting *the bigger complex of inferiority*, the **logo adorned weight** will also let your peers know you are ready to *comparatively suffer more* to hide it with flashy yet ineffective things.
 
