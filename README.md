@@ -211,11 +211,11 @@ Either way there are more or less silly options one can implement:
 - contoured holes inside the PCB surface (rectangular reverse soldered LED cutouts)
 - light guides (see thru areas vacant of any copper traces thorought the PCB for light effects)
 - per switch LED or RGB (WS2812 or WS2811)
-- underglow with our without RGB & effects (evenm more WS281x)
+- underglow with our without RGB & effects (even more WS281x)
 - solenoid bumper (tactile feedback device)
 - beeper (for maximum over russtle)
 - flexible suspension elements (so the PCB and plate sandwich can flex one way or the other)
-- hopswap connectors (so you can have three times more points of faiulre as if several tens of metallic contact switches wern't enough already)
+- hotswap connectors (so you can have three times more points of faiulre as if several tens of metallic contact switches wern't enough already)
 - alternative connection methods (always missing that charging cable, eh?)
 
 ### Safe keys
