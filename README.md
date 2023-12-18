@@ -124,7 +124,7 @@ Properly desinged case **relieves the cable and plug** from excessive stress and
 
 A **slot** for securing a keyboard with a lock and a steel rope/chain is a clear sign of a forward looking and mature designer.
 
-Metal cases should have functional **grounding** measures that effectively connect it to the ground of the wired host device or aparatus.
+Metal cases should have functional **grounding** measures that effectively connect it to the ground of the host device or aparatus the keyboard attached to.
 
 A rugged case should **protect the switches** from extreme travel by not allowing them to bottom out before the case sits flush against a flat rigid surface - imagine stepping on an iverted keyboard lying flat on a reasonably flat floor
 
