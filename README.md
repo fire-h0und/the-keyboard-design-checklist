@@ -192,7 +192,7 @@ Back in the day handwired was the only viable option for most options. Nowdays o
 
 Competitive manufacturing services in China have made PCBs as accessible as never before - the PCB for a keyboard can be as low as $15 per unit without shipping, depending on the size and soewhat on the design.
 
-With a PCB (Printed Circuit Board) the designer still has few options: to put a dedicated MCU (ship) on the very board or to use a daughter board (RP2040, Teensy 2.0 or some bluetooth variety) and use the PCB only for holding the key switches, routing traces and integrating the elements.
+With a PCB (Printed Circuit Board) the designer still has few options: to put a dedicated MCU (chip) on the very board or to use a daughter board (RP2040, Teensy 2.0 or some bluetooth variety) and use the PCB only for holding the key switches, routing traces and integrating the elements.
 
 Either way there are more or less silly options one can implement:
 
