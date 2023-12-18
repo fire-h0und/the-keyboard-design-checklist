@@ -251,7 +251,7 @@ Good designers cleverly use negative space to their best advantage. Space of 0.2
 ### Tactile and other feedback mechanisms
 Tactility is good. Mankind has used the tactility of it's fingers from the dawn of time. One of the greatest shortcomings of the otherwise superior touch screens is exactly that - lack of tactile feedback.
 
-A good design uses the tactile feedback to is's best adavtage.
+A good design uses the tactile feedback to it's best adavtage.
 
 The original complicated (SCKM) **Alps** switches have the highest tactile reputation among all currently available options. The **Matias** and OPC (from **Tai Hao**) come close in second then the whole variety of more or less expensive and/or viable MX clones and lookalikes (**Kailh** BOX coes to mind).
 
