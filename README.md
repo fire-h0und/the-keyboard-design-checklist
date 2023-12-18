@@ -128,7 +128,7 @@ Metal cases should have functional **grounding** measures that effectively conne
 
 A rugged case should **protect the switches** from extreme travel by not allowing them to bottom out before the case sits flush against a flat rigid surface - imagine stepping on an iverted keyboard lying flat on a reasonably flat floor
 
-A rugged case should have **controlled liguid paths** for ingress and egress - liquid always finds a way in, but wise designers see it quickly can find the way out too.
+A rugged case should have **controlled liguid paths** for ingress and egress - liquid always finds a way in, but wise designers see it can quickly find the way out too.
 
 Any radius smaller than 0.2 mm (~10 thou) is considered a **sharp edge** and while not a cutting hazard is certainly unpleasant to lean against. A good "soft" edge is a 45 degree chamfer that is 0.5 to 1.0 mm deep (0.7 to 1.4 mm across the surface).
 
