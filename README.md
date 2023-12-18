@@ -65,7 +65,7 @@ Alas! It has issues with:
 ### The EDC workhorse
 When buying and actual daily drive a *cary along keyboard* make sure that:
 * it's actually silenced/dampened - it takes more than foam modding to comply with that.
-* rugged desing means actual metal plate, a case that can handle falling from the desk to the floor and can handle repairs should the worst happen.
+* rugged design means actual metal plate, a case that can handle falling from the desk to the floor and can handle repairs should the worst happen.
 * it has QMK firmware with options to meet OS requirements in the environment it actually will be used in - *even as the only keyboard or input device*.
 * it's "features" like light effects and sounds (or knocks) can be readily turned off when the situation demands it.
 * the size and layout is comfortable and productive for prolonged use
@@ -120,7 +120,7 @@ I am  yet to see a **keyboard weight** to play any role aside from hampering tra
 
 Good cases have **soft feet** that don't ever slip on any surface, and don't scratch or burr any desk if dragged across.
 
-Properly desinged case **relieves the cable and plug** from excessive stress and damage in all possible and even some unforseen use scenarios. A merely recessed USB plug is just that - both inadequate and a failure waiting to happen.
+Properly designed case **relieves the cable and plug** from excessive stress and damage in all possible and even some unforseen use scenarios. A merely recessed USB plug is just that - both inadequate and a failure waiting to happen.
 
 A **slot** for securing a keyboard with a lock and a steel rope/chain is a clear sign of a forward looking and mature designer.
 
@@ -147,7 +147,7 @@ Do note there is no set of general measurs to define the ideal keyboard, everyon
 
 Valid plate materials are many and as can be seen, the pick is not mandated solely by the rigidity of the material.
 
-Te roles a plate plays in a desing are quite few:
+Te roles a plate plays in a design are quite few:
 * Align and distribute 2/3 pin switches easily and evenly
 * Change flexing/rigidity of the whole board or one or more areas
 * Carry and stabilize the switches (some designs can even lack the entire PCB beneath)
@@ -192,7 +192,7 @@ Back in the day handwired was the only viable option for most options. Nowdays o
 
 Competitive manufacturing services in China have made PCBs as accessible as never before - the PCB for a keyboard can be as low as $15 per unit without shipping, depending on the size and soewhat on the design.
 
-With a PCB (Printed Circuit Board) the desinger still has few options: to put a dedicated MCU (ship) on the very board or to use a daughter board (RP2040, Teensy 2.0 or some bluetooth variety) and use the PCB only for holding the key switches, routing traces and integrating the elements.
+With a PCB (Printed Circuit Board) the designer still has few options: to put a dedicated MCU (ship) on the very board or to use a daughter board (RP2040, Teensy 2.0 or some bluetooth variety) and use the PCB only for holding the key switches, routing traces and integrating the elements.
 
 Either way there are more or less silly options one can implement:
 
