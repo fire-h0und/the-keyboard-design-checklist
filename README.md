@@ -92,7 +92,127 @@ The keyboard design elements don't end with:
 * Circuitry (be it on a board or wires hung mid air - aka handwired)
 * Connection cable (or medium if wireless)
 
-People usualy forget most keyboards have collapsible feet. Some keyboards even can be tented. But there is way more to keyboard elements than just that...
+People usualy forget most keyboards have collapsible feet. Some keyboards even can be tented. That brings us to the ...
+
+### Keyboard angles
+
+The usual keyboard lies on the desk at an angle from zero to two degrees, once the collapsible feet are folded out the angle can increases for some seven up to eleven degrees.
+
+Not all keyboard conform to these values.
+
+The angling is dictated by both ergonomics and convenience - to see the labels from a more advantageous angle and to lessen the strain on the wrists while typing.
+
+### Case
+
+A decently designed keyboard unit will form a wedge that's lower on the closer end. This comforms to just how hands at typing work.
+
+Typical frontend heights range from 18 to some 25 mm (3/4 to 1 inch) and the back heights are just happenstance and depend on the design itslef.
+
+Some cases have an integrated **wrist rest** - it is a flat area thet can be used to lean the palms and wrists on while typing. Those keyboards that have none usually depend on the users acquiring a separate wrist rest or to type with the hands "hovering" above the desk.
+
+Either option can lead to **RSSI** if used without planned breaks, sufficient *injury preventing exercise* while working and extremely *prolonged exposure to a single work pose*.
+
+Remember: too much optimization produces as much injury as inadequate work conditions can.
+
+Besides angles and sizes, the case characterizes also the weight. Some designers seem to lack confidence in designing a case as is so they add all osrts of weights to the bottom as a sorto f design language.
+
+I am  yet to see a **keyboard weight** to play any role aside from hampering transport and mitigating what **decent feet** ought to entirely alleviate (unitended motion of the unit while in normal operation). Aside asserting *the bigger complex of inferiority*, the **logo adorned weight** will also let your peers know you are ready to *comparatively suffer more* to hide it with flashy yet ineffective things.
+
+Good cases have **soft feet** that don't ever slip on any surface, and don't scratch or burr any desk if dragged across.
+
+Properly desinged case **relieves the cable and plug** from excessive stress and damnage in all possible and even unforseen use scenarios. A merely recessed USB plug is just that - both inadequate and a failure waiting to happen.
+
+A **slot** for securing a keyboard with a lock and a steel rope/chain is a clear sign of a forward looking and mature designer.
+
+Metal cases should have functional **grounding** measures that effectively connect it to the ground of the wired host device or aparatus.
+
+A rugged case should **protect the switches** from extreme travel by not allowing them to bottom out before the case sits flush against a flat rigid surface - imagine stepping on an iverted keyboard lying flat on a reasonably flat floor
+
+A rugged case should have **controlled liguid paths** for ingress and egress - liquid always finds a way in, but wise designers see it quickly can find the way out too.
+
+Any radius smaller than 0.2 mm (~10 thou) is considered a **sharp edge** and while not a cutting hazard is certainly unpleasant to lean against. A good "soft" edge is a 45 degree chamfer that is 0.5 to 1.0 mm deep (0.7 to 1.4 mm across the surface).
+
+Radiuses from 8.0 to 11.0 mm look nicely and human on the closest side if the design language mandates a rounded front side.
+
+Do note there is no set of general measurs to define the ideal keyboard, everyone has just to find it's own.
+
+
+### Plate design considerations
+
+1. There is nothing wrong with an absolutely sturdy keyboard
+2. There is nothing wrong with an squishy flexible keyboard
+3. the right amount of flex & rigidity is merely a matter of personal preference
+4. Do note that absolutely rigid keyboards never develop squeeking noises ever.
+5. there are plates that don't span the whole surface of the key area
+
+Valid plate materials are many and as can be seen, the pick is not mandated solely by the rigidity of the material.
+
+Te roles a plate plays in a desing are quite few:
+* Align and distribute 2/3 pin switches easily and evenly
+* Change flexing/rigidity of the whole board or one or more areas
+* Carry and stabilize the switches (some designs can even lack the entire PCB beneath)
+* Seal off the internals from the environment (as some designs only have the plate and the lower housing)
+* Carry the blockers, the LEDs/OLED/screen/feedback devices
+* Carry a cool logo
+* Conceal cool comments and art on the PCB (this art form is typically referred to "easter eggs")
+* Connect the keyboard to the case
+
+Typical plate materials are:
+* None (the so called plateless keyboard)
+* Painted mild steel sheet
+* Aluminum (stamped or cut sheet or CNC'd blocks integral with the top housing)
+* Stainless (typically 304, rarely 316 (marine proof keyboards?)
+* polycarbonate plastic cheet (very durable and flexible)
+* plywood or wood (birch, maple come to mind)
+* ABS plastic (3d prints in an enclosure like a charm)
+* PETg and or PLA - not suited for somer time usage in cars or hot ambients (stable up to 50 degrees Celsius at most)
+* Brass or Copper (those steampunk enthusiasts really seem to have money to burn, right?)
+* Bronze or titanium (some people just seem to yearn to know the machining was arduous and painstaking or just can't be happy?)
+
+### Switches
+Mechanical keyboards are a niche of the whole keyboard market, a niche that seems to be expanding (or at least was up unil very recently).
+By that one understands a input device that holds more or less interchangeable modules called key switches that can either be soldered or plugged into dedicated sockets (the "hoitswap" keyboard variety).
+As of very recently baseides mechanical metallic contacts, there have been magnetic, optical and non metallic contact switches offered on the market.
+
+To pick the right switch it is a matter of preference, tehnical profficience and more often that not a matter of residence due to many recent shipping constrains.
+
+Definitively a matter of personal preference and taste.
+
+I happen to like Kailh silent BOX and am not endorsed or have had any offer or gift fom then or any other company. I just genuinely happen to like them. Do note i don't like just every Kailh's switch.
+
+### Circutry
+
+The keyboard's mechanical side is jut one half of the medal. The circuity and firmware is what gives it the final character.
+
+Historuically we can divide making keyboards to before and after KiCAD 5.10 and JLC-PCB. What before was a costly and arduous adventure for the enlightened few has become a hobby and pastime for the masses. Allthough not big masses, but rather select few *particular* masses (i *thik* it's called *nerds*)
+
+A keyboard is considered "handwired" if it has none or a PCB that does not reach to all or most of the key switches but barely carries the controller circuitry and possibly the USB cable plug.
+
+Back in the day handwired was the only viable option for most options. Nowdays only the most sculpted designs (dactyl and the like) use this method for obvious reasons, alltho even there are single switch PCB to be readily ordered.
+
+Competitive manufacturing services in China have made PCBs as accessible as never before - the PCB for a keyboard can be as low as $15 per unit without shipping, depending on the size and soewhat on the design.
+
+With a PCB (Printed Circuit Board) the desinger still has few options: to put a dedicated MCU (ship) on the very board or to use a daughter board (RP2040, Teensy 2.0 or some bluetooth variety) and use the PCB only for holding the key switches, routing traces and integrating the elements.
+
+Either way there are more or less silly options one can implement:
+
+- curved traces
+- drop eye vias (a relict from the past when the etching imposed limitations to the copper mask)
+- hatched ground plane (this is way cool in looks altho ridiculously unimportant and without effect aside that)
+- ridiculous silkscreen comments
+- logos across silkscreen, soldermask and copper mask ("multi color" logos)
+- traces designed with more than just electrical design rules in effect (artistic traces)
+- mouse bites (a tecnique to allow for ireversibly breaking off PCB segments)
+- contoured PCB outline
+- contoured holes inside the PCB surface (rectangular reverse soldered LED cutouts)
+- light guides (see thru areas vacant of any copper traces thorought the PCB for light effects)
+- per switch LED or RGB (WS2812 or WS2811)
+- underglow with our without RGB & effects (evenm more WS281x)
+- solenoid bumper (tactile feedback device)
+- beeper (for maximum over russtle)
+- flexible suspension elements (so the PCB and plate sandwich can flex one way or the other)
+- hopswap connectors (so you can have three times more points of faiulre as if several tens of metallic contact switches wern't enough already)
+- alternative connection methods (always missing that charging cable, eh?)
 
 ### Safe keys
 When you want to "wake" the computer or interrupt it's idel state but not interrupt it's current task of focus point you seek wha'ts called a "safe key".
