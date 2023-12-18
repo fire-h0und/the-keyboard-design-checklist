@@ -174,7 +174,7 @@ Mechanical keyboards are a niche of the whole keyboard market, a niche that seem
 
 By that one understands an input device that holds more or less interchangeable modules called **key switches** that can either be soldered or plugged into dedicated sockets (the "hotswap" keyboard variety).
 
-As of very recently baseides mechanical metallic contacts, there have been magnetic, optical and non metallic contact switches offered on the market.
+As of very recently beside metallic contacts, there have been magnetic, optical and non metallic contact switches offered on the market.
 
 To pick the right switch it is a matter of preference, tehnical profficience and more often that not a matter of residence due to many recent shipping constrains.
 
