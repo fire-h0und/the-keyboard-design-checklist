@@ -182,7 +182,7 @@ I happen to like Kailh silent BOX while I am not endorsed or have had any offer 
 
 Aside from traditional switches there are a special variety called **rotary encoders**, it is a special sort of switch where it can be inferred at what direction amount and pace it is turning. The most popular have an adtional "push button" switch integrated on top. Their advantages are novely, satisfying tactile feedback (if of any quality) and intuitive UI traversal (turn & click). The disadvantages are fragility (if implemented improperly) and much lesser service time compared to a good key switch.
 
-One can find other types of input and ineraction devices among the switches on a keyboard like a track-point, trackball or a trackpad.
+One can find other types of input and interaction devices among the switches on a keyboard like a **track-point**, **trackball** or a **trackpad**.
 
 ### Circutry
 
