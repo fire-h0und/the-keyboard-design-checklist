@@ -143,7 +143,7 @@ Do note there is no set of general measurs to define the ideal keyboard, everyon
 2. There is nothing wrong with an squishy flexible keyboard
 3. The right amount of flex & rigidity is merely a matter of personal preference
 4. Do note that absolutely rigid keyboards never develop squeeking noises ever.
-5. there are plates that don't span the whole surface of the key area
+5. There are plates that don't span the whole surface of the key area
 
 Valid plate materials are many and as can be seen, the pick is not mandated solely by the rigidity of the material.
 
@@ -162,8 +162,8 @@ Typical plate materials are:
 * Painted mild steel sheet
 * Aluminum (stamped or cut sheet or CNC'd blocks integral with the top housing)
 * Stainless (typically 304, rarely 316 (marine proof keyboards?)
-* polycarbonate plastic cheet (very durable and flexible)
-* plywood or wood (birch, maple come to mind)
+* Polycarbonate plastic cheet (very durable and flexible)
+* Plywood or wood (birch, maple come to mind)
 * ABS plastic (3d prints in an enclosure like a charm)
 * PETg and or PLA - not suited for somer time usage in cars or hot ambients (stable up to 50 degrees Celsius at most)
 * Brass or Copper (those steampunk enthusiasts really seem to have money to burn, right?)
