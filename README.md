@@ -223,7 +223,7 @@ When you want to "wake" the computer or interrupt it's idle state but not interr
 
 Unlike "any key", a key that is expected to be pressed and wichever key is pressed the iput will be disregarded, a "safe key" is such a key that aside it will be detected by the OS (some keys are not detected if pressed alone or once - it's by design) won't result, preferably in a undesired action, ideally just none at all.
 
-One of cuch keys is the **Control** key, the others are **Alt** and **Caps lock**. The later has to be pressed an odd number of times to have absolutely no effect, but the odd presses ought to toggle the LED on the keyboard - if this fails to happen it usually is an unintrusive troubelshooting sign.
+One of such keys is the **Control** key, the others are **Alt** and **Caps lock**. The later has to be pressed an odd number of times to have absolutely no effect, but the odd presses ought to toggle the LED on the keyboard - if this fails to happen it usually is an unintrusive troubelshooting sign.
 
 Now that we have established what safe keys are, can we agree the a wise designer will try to put at least one more more such keys on the most corners of a kayboard?
 
