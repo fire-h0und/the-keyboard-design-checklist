@@ -203,11 +203,11 @@ Competitive manufacturing services in China have made PCBs as accessible as neve
 
 With a PCB (Printed Circuit Board) the designer still has few options: to put a dedicated MCU (chip) on the very board or to use a daughter board (RP2040, Teensy 2.0 or some bluetooth variety) and use the PCB only for holding the key switches, routing traces and integrating the elements.
 
-Either way there are more or less silly options one can implement:
+Either way there are more or less silly options one can implement (on a keyboard PCB):
 
 - curved traces
-- drop eye vias (a relic from the past when the etching imposed limitations to the copper mask)
-- hatched ground plane (this is way cool in looks altho ridiculously unimportant and without effect aside that)
+- teardrop pads (a relic from the past when the etching imposed limitations to the copper mask, somewhat debatable as a good precticle due to mechanical concerns in some cases)
+- hatched ground plane (Besides looking cool it might have some effect on weight and flex in some corner cases)
 - ridiculous silkscreen comments
 - logos across silkscreen, soldermask and copper mask ("multi color" logos)
 - traces designed with more than just electrical design rules in effect (artistic traces)
