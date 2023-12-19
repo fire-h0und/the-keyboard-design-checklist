@@ -14,20 +14,20 @@ The article was written with the typical keyboard designer in mind. Be it novice
 Not all keyboards are created equal. And some intentionally so. Let's see what considerations at all come into play when desiging one?
 
 ### The show room queen
-* OLED - check
-* Standard row stagger - check
-* Latest an greatest QMK/ZMK fork for firmware - check
-* Web GUI for keyboard layout and dedicated OS/platform customisation app - check
-* Underglow in RGB - check
-* per key RGB - check
-* Latest GMK keycaps from Drop - check
-* Pudding (side translucent ekycaps) - check
-* *Feelios* (sarcastically generalized factory lubricated MX style switch reference) - check
-* coiled cable with in_the_middle aviator jack - check
+[x] OLED
+[x] Standard row stagger
+[x] Latest an greatest QMK/ZMK fork for firmware
+[x] Web GUI for keyboard layout and dedicated OS/platform customisation app
+[x] Underglow in RGB
+[x] per key RGB
+[x] Latest GMK keycaps from Drop
+[x] Pudding (side translucent ekycaps)
+[x] *Feelios* (sarcastically generalized factory lubricated MX style switch reference)
+[x] coiled cable with in_the_middle aviator jack
   
 See? it ticks all the boxes yet you will never see it worn on my desk, nor on any artist or PC worker's desk either. As the title implies it is more of an artistic artifact than an actual daily driver product.
 
-Forgot the CNCed brass keycaps...
+[ ] Forgot the CNCed brass keycaps...
 
 ### The best seller
 There Are those keyboards that everyone has a piece of. All have been used. Most of them end up tucked away. Everyone has an oppinion of his own one.<br>
