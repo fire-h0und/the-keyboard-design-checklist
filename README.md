@@ -226,7 +226,7 @@ Either way there are more or less silly options one can implement (on a keyboard
 ### Safe keys
 When you want to "wake" the computer or interrupt it's idle state but not interrupt it's current task of focus point you seek what's called a "safe key".
 
-Unlike "any key", a key that is expected to be pressed and wichever key is pressed the iput will be disregarded, a "safe key" is such a key that aside it will be detected by the OS (some keys are not detected if pressed alone or once - it's by design) won't result, preferably in a undesired action, ideally just none at all.
+Unlike "any key", a key that is expected to be pressed and wichever key is pressed the input will be disregarded, a "safe key" is such a key that aside it will be detected by the OS (some keys are not detected if pressed alone or once - it's by design) won't result, preferably in a undesired action, ideally just none at all.
 
 One of such keys is the **Control** key, the others are **Alt** and **Caps lock**. The later has to be pressed an odd number of times to have absolutely no effect, but the odd presses ought to toggle the LED on the keyboard - if this fails to happen it usually is an unintrusive troubelshooting sign.
 
