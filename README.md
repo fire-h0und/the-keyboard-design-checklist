@@ -206,7 +206,7 @@ With a PCB (Printed Circuit Board) the designer still has few options: to put a 
 Either way there are more or less silly options one can implement:
 
 - curved traces
-- drop eye vias (a relict from the past when the etching imposed limitations to the copper mask)
+- drop eye vias (a relic from the past when the etching imposed limitations to the copper mask)
 - hatched ground plane (this is way cool in looks altho ridiculously unimportant and without effect aside that)
 - ridiculous silkscreen comments
 - logos across silkscreen, soldermask and copper mask ("multi color" logos)
