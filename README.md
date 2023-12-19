@@ -1,9 +1,14 @@
 # the-keyboard-design-checklist
+### Foreword
 Note all the oppinions expressed here are that of the author. They might more or less differ from Yours or others. If You happen not to like some, try to agree we disagree and feel free to fork this and write up your own. 
 
 There always were beloved and hated keybords. Some are even materialized practical jokes and even pranks.
 
 Let's delve into predicting (as in creating) what comprises an excellent keyboard.
+### Intended audience
+This article is written by an experienced DIYer with a somewaht limited background in building just keyboards. The idea was to create a comperhensive checklist one would get back to and/or skim over when in doubt or when strating a fresh build.
+
+The article was written with the typical keyboard designer in mind. Be it novice or a seasoned builder there can always be details or elements we oversee or neglect.
 
 ## Intended use & audience
 Not all keyboards are created equal. And some intentionally so. Let's see what considerations at all come into play when desiging one?
