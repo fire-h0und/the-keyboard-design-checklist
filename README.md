@@ -14,16 +14,16 @@ The article was written with the typical keyboard designer in mind. Be it novice
 Not all keyboards are created equal. And some intentionally so. Let's see what considerations at all come into play when desiging one?
 
 ### The show room queen
-[x] OLED
-[x] Standard row stagger
-[x] Latest an greatest QMK/ZMK fork for firmware
-[x] Web GUI for keyboard layout and dedicated OS/platform customisation app
-[x] Underglow in RGB
-[x] per key RGB
-[x] Latest GMK keycaps from Drop
-[x] Pudding (side translucent ekycaps)
-[x] *Feelios* (sarcastically generalized factory lubricated MX style switch reference)
-[x] coiled cable with in_the_middle aviator jack
+[x] OLED<br>
+[x] Standard row stagger<br>
+[x] Latest an greatest QMK/ZMK fork for firmware<br>
+[x] Web GUI for keyboard layout and dedicated OS/platform customisation app<br>
+[x] Underglow in RGB<br>
+[x] per key RGB<br>
+[x] Latest GMK keycaps from Drop<br>
+[x] Pudding (side translucent ekycaps)<br>
+[x] *Feelios* (sarcastically generalized factory lubricated MX style switch reference)<br>
+[x] coiled cable with in_the_middle aviator jack<br>
   
 See? it ticks all the boxes yet you will never see it worn on my desk, nor on any artist or PC worker's desk either. As the title implies it is more of an artistic artifact than an actual daily driver product.
 
